@@ -16,7 +16,7 @@
 
 ## Demo 👁‍🗨
 
- Explore the live demo: [NewsSync ↗ ](https://github.com/Ajay21-03/SyncFolks/)
+ Explore the live demo: [SyncFolks↗ ](https://github.com/Ajay21-03/SyncFolks/)
 
 ## Tech Stack Used
 
